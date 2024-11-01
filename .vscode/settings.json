@@ -1,2 +1,5 @@
 {
+    "workbench.statusBar.visible": false,
+    "workbench.tips.enabled": true,
+    "workbench.tree.enableStickyScroll": false
 }
